@@ -1,7 +1,7 @@
 # Ecommerce Backend
   ![Github licence](http://https://img.shields.io/badge/license-MIT-License-blue.svg)
   ## Description 
-  This project is the back end for an e-commerce site. This application uses Express.js and Sequelize to interact with a MySQL database. This application creates a database using MySQL models and associations. API Routes are creatred to perform RESTful CRUD operations using sequelized models.
+  This project is the back end for an e-commerce site. This application uses Express.js and Sequelize to interact with a MySQL database. This application creates a database using MySQL models and associations. API Routes are created to perform RESTful CRUD operations using sequelized models.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
