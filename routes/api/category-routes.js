@@ -28,11 +28,11 @@ router.get('/:id', (req, res) => {
   // be sure to include its associated Products
 })
 .then(dbCategoryData => {
-      if (!dbPostData) {
+      if (!dbCategoryData) {
         res.status(404).json({ message: 'No Category found with this id' });
         return;
       }
-      res.json(dbPostData);
+      res.json(dbCategoryData);
     })
     .catch(err => {
       console.log(err);
