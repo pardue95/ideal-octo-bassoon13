@@ -41,7 +41,7 @@
     *  GET routes for a single category, a single product, and a single tag by Id<br>
     *  POST, PUT, and DELETE routes for categories, products, and tags
 
-3. Walkthrough video showing all the technical acceptance criteria met. [Click here](https://)<br>
+3. Walkthrough video showing all the technical acceptance criteria met. [Click here](https://watch.screencastify.com/v/pDvWZw5UuYlEMZ2Io6zK)<br>
     * Uses the MySQL2 and Sequelize packages to connect to a MySQL database
     * Uses the dotenv package to use environment variables to store sensitive data, like a user’s MySQL username, password, and database name.
     * Syncs Sequelize models to a MySQL database on the server start.
