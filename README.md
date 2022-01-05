@@ -36,7 +36,7 @@
     * Seed the database <br>
     * Start the npm Server
        
-2. Walkthrough video covers API routes being tested in Insomnia Core. [Click here](https://d)<br>
+2. Walkthrough video covers API routes being tested in Insomnia Core. [Click here](https://watch.screencastify.com/v/Uhyg4uc7YNh8dgJ2e3g3)<br>
     *  GET routes for all categories, all products, and all tags <br>
     *  GET routes for a single category, a single product, and a single tag by Id<br>
     *  POST, PUT, and DELETE routes for categories, products, and tags
