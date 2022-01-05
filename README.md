@@ -31,7 +31,7 @@
 * Run the app
      - `npm start` [To start the server] and navigate to <http://localhost:3001/> in your browser OR Use Insomnia Core
   ## Usage 
-  1. Walkthrough video covers MySQL shell [Click here](https://watch.screencastify.com/v/yCq65XGdRaozPSHYqJXz)<br>
+  1. Walkthrough video covers MySQL shell [Click here]https://watch.screencastify.com/v/XW869gJr1kmS42Fi81xs<br>
     * Source the schema <br>
     * Seed the database <br>
     * Start the npm Server
